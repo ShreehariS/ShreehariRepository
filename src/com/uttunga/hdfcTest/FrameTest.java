@@ -12,6 +12,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class FrameTest {
 	static WebDriver driver1; 
 
+	// COmments
+	//
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -89,6 +92,8 @@ public class FrameTest {
 		}
 	}
 	
+	//
+	//
 	
 	public static void frameType(By Locator, String value)
 	{
